@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Advanced Java, React**
 
-- 💬 Ask me about **Java, React**
+- 💬 Ask me about **Java, PHP**
 
 - 📫 How to reach me **roshitshrees@gmail.com**
 
